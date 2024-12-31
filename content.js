@@ -8,7 +8,8 @@ chrome.storage.sync.get("blockedSites", function(data) {
       document.documentElement.innerHTML = "";
 
       // use this text in case if you want to show your content
-      window.location.href = "https://www.udemy.com/course/react-the-complete-guide-incl-redux/?couponCode=KEEPLEARNING";
+      // window.location.href = "you can add any link which will help you redirect 
+                                // to that webpage as a waring or reminder instead of opening website which was added to block list";
     }
   }
 });
