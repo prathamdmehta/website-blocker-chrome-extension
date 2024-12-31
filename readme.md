@@ -18,11 +18,8 @@ This is a Chrome extension that allows users to block specific websites. It help
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Tutorial
-To learn how to build this project, check out the tutorial on [YouTube](https://youtu.be/wZcU07zfMSk).
-
 ## Contributing
 Contributions are welcome! If you have any ideas or improvements, please open an issue or submit a pull request.
 
 ## Contact
-For any questions or feedback, feel free to reach out to me at tom@tomshaw.dev
+For any questions or feedback, feel free to reach out to me at mehta2935@gmail.com
